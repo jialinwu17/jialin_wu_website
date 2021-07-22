@@ -6,34 +6,30 @@ title: Jialin Wu
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: The University of Texas at Austin
+  url: https://www.utexas.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My main research interests are interpretability of deep learning and interaction between language and vision. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Language and Vision
+- Explainable AI
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: UT Austin
+    year: 2017 - present
+  - course: BEng in Automation
+    institution: Tsinghua University
+    year: 2013 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +39,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=M7EpKqsAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jialinwu17
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jialin-wu-a50135175/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,9 +62,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am a fourth year Ph.D. student at <a href = "https://www.cs.utexas.edu/">UTCS</a> advised by <a href = "https://www.cs.utexas.edu/~mooney/">Raymond J. Mooney.</a>
+ Before coming to UT Austin,<br> I received my BEng. degree from <a href = "http://www.au.tsinghua.edu.cn/"> the Department of Automation</a> supervised by <a href = "http://media.au.tsinghua.edu.cn/xiangyangji.htm"> Prof. Xiangyang Ji</a> at <a href = "http://www.tsinghua.edu.cn/publish/then/index.html"> Tsinghua University</a> in 2017. <br>
+</p>
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My main research interests are interpretability of deep learning and interaction between language and vision. <br>
+I am also the organizer of  <a href = "https://www.cs.utexas.edu/~ml/xai/">UT XAI</a> reading group.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
