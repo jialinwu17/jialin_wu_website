@@ -69,4 +69,3 @@ I am a fourth year Ph.D. student at <a href = "https://www.cs.utexas.edu/">UTCS<
 My main research interests are interpretability of deep learning and interaction between language and vision. <br>
 I am also the organizer of  <a href = "https://www.cs.utexas.edu/~ml/xai/">UT XAI</a> reading group.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
