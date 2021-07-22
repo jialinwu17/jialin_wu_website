@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jialin Wu # Website name
-baseurl: 'https://www.cs.utexas.edu/~jialinwu/' # Website URL
+baseurl: 'www.example.com' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
