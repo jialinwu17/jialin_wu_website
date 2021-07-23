@@ -4,7 +4,8 @@ title: "Hidden State Guidance: Improving Image Captioning using An Image
 publication_types:
   - "1"
 authors:
-  - J
+  - Jialin Wu and Raymond J. Mooney
+publication_short: NeurIPS 2019 Vigil Workshop
 abstract: Most RNN-based image captioning models receive supervision on the
   output words to mimic human captions. Therefore, the hidden states can only
   receive noisy gradient signals via layers of back-propagation through time,
