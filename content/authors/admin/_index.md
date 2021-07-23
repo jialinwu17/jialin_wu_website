@@ -69,4 +69,4 @@ My main research interests are interpretability of deep learning and interaction
 
 I am also the organizer of  <a href = "https://www.cs.utexas.edu/~ml/xai/">UT XAI</a> reading group.
 
-I am actively looking for full-time opportunity starting summer/fall 2022 and My CV is <a href = "https://www.cs.utexas.edu/~jialinwu/JialinWu_CV.pdf">here</a>.
+I am actively looking for full-time opportunity starting summer/fall 2022 and my CV is <a href = "https://www.cs.utexas.edu/~jialinwu/JialinWu_CV.pdf">here</a>.
