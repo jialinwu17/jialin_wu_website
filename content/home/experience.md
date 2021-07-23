@@ -26,15 +26,15 @@ experience:
     company: Allen Institute for AI
     company_url: 'https://allenai.org'
     location: Seattle
-    date_start: '2020-05'
-    date_end: '2020-8'
+    date_start: '2020-05-01'
+    date_end: '2020-08-01'
         
   - title: Research Intern
     company: Google Inc.
     company_url: ''
     location: New York City
-    date_start: '2019-05'
-    date_end: '2019-08'
+    date_start: '2019-05-01'
+    date_end: '2019-08-01'
     
 
 design:
