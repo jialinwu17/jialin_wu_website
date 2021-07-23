@@ -1,7 +1,6 @@
 ---
 title: Improving VQA and its Explanations by Comparing Competing Explanations
 publication_types:
-  - "0"
   - "1"
 authors:
   - JialinWU
