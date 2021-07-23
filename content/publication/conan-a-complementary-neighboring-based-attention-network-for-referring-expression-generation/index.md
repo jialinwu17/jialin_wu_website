@@ -5,6 +5,7 @@ publication_types:
   - "1"
 authors:
   - Jungjun Kim, Hanbin Ko, Jialin Wu
+publication_short: COLING 2020
 abstract: Daily scenes are complex in the real world due to occlusion, undesired
   lighting conditions, etc. Although humans handle those complicated
   environments well, they evoke challenges for machine learning systems to
