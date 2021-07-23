@@ -64,9 +64,8 @@ highlight_name: false
 ---
 I am a fifth year Ph.D. student at <a href = "https://www.cs.utexas.edu/">UTCS</a> advised by <a href = "https://www.cs.utexas.edu/~mooney/">Raymond J. Mooney.</a>
  Before coming to UT Austin, I received my BEng. degree from <a href = "http://www.au.tsinghua.edu.cn/"> the Department of Automation</a> supervised by <a href = "http://media.au.tsinghua.edu.cn/xiangyangji.htm"> Prof. Xiangyang Ji</a> at <a href = "http://www.tsinghua.edu.cn/publish/then/index.html"> Tsinghua University</a> in 2017. 
-</p>
 
-My main research interests are interpretability of deep learning and interaction between language and vision. More specifically, I work on using textual (potentially other modalities of resources) for answering visual questions. 
+My main research interests are interpretability of deep learning and interaction between language and vision. More specifically, I work on using textual resources (potentially other modalities of resources) for answering visual questions. 
 
 I am also the organizer of  <a href = "https://www.cs.utexas.edu/~ml/xai/">UT XAI</a> reading group.
 
