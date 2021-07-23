@@ -3,7 +3,8 @@ title: Improving VQA and its Explanations by Comparing Competing Explanations
 publication_types:
   - "1"
 authors:
-  - JialinWU
+  - Jialin Wu, Liyan Chen, Raymond J. Mooney
+publication_short: ACL 2020 ALVR Workshop
 abstract: Most recent state-of-the-art Visual Question Answering (VQA) systems
   are opaque black boxes that are only trained to fit the answer distribution
   given the question and visual content. As a result, these systems frequently
