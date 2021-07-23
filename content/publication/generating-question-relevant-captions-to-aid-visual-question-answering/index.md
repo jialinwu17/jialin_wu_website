@@ -2,6 +2,9 @@
 title: Generating Question Relevant Captions to Aid Visual Question Answering
 publication_types:
   - "1"
+authors:
+  - Jialin Wu, Zeyuan Hu, Raymond J. Mooney
+publication_short: ACL 2019
 abstract: Visual question answering (VQA) and image captioning require a shared
   body of general knowledge connecting language and vision. We present a novel
   approach to improve VQA performance that exploits this connection by jointly
