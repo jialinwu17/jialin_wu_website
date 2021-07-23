@@ -3,7 +3,8 @@ title: Faithful Multimodal Explanation for Visual Question Answering
 publication_types:
   - "1"
 authors:
-  - admin
+  - Jialin Wu and Raymonf J. Mooney
+publication_short: ACL 2019 BlackboxNLP Workshop
 abstract: AI systems' ability to explain their reasoning is critical to their
   utility and trustworthiness. Deep neural networks have enabled significant
   progress on many challenging problems such as visual question answering (VQA).
