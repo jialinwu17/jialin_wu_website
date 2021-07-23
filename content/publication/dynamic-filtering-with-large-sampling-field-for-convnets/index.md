@@ -2,6 +2,9 @@
 title: Dynamic Filtering with Large Sampling Field for Convnets
 publication_types:
   - "1"
+authors:
+  - Jialin Wu, Dai Li, Yu Yang, Chandrajit Bajaj, Xiangyang Ji
+publication_short: ECCV 2018
 abstract: We propose a dynamic filtering strategy with large sampling field for
   ConvNets (LS-DFN), where the position-specific kernels learn from not only the
   identical position but also multiple sampled neighbour regions. During
