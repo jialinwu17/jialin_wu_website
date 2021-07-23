@@ -4,7 +4,7 @@ title: "CoNAN: A Complementary Neighboring-based Attention Network for Referring
 publication_types:
   - "1"
 authors:
-  - aaa
+  - Jungjun Kim, Hanbin Ko, Jialin Wu
 abstract: Daily scenes are complex in the real world due to occlusion, undesired
   lighting conditions, etc. Although humans handle those complicated
   environments well, they evoke challenges for machine learning systems to
