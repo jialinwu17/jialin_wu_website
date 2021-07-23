@@ -3,7 +3,7 @@ title: Self-Critical Reasoning for Robust Visual Question Answering
 publication_types:
   - "1"
 authors:
-  - JialinWu
+  - Jialin Wu and Raymond J. Mooney
 draft: false
 featured: false
 image:
