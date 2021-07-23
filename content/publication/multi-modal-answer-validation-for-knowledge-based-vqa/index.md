@@ -3,7 +3,8 @@ title: Multi-Modal Answer Validation for Knowledge-Based VQA
 publication_types:
   - "3"
 authors:
-  - Jialin
+  - Jialin Wu, Jiasen Lu, Ashish Sabharwal, Roozbeh Mottaghi
+publication_short: Arxiv
 abstract: The problem of knowledge-based visual question answering involves
   answering questions that require external knowledge in addition to the content
   of the image. Such knowledge typically comes in a variety of forms, including
