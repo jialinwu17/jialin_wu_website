@@ -3,7 +3,7 @@ title: Faithful Multimodal Explanation for Visual Question Answering
 publication_types:
   - "1"
 authors:
-  - Jialin Wu and Raymonf J. Mooney
+  - Jialin Wu and Raymond J. Mooney
 publication_short: ACL 2019 BlackboxNLP Workshop
 abstract: AI systems' ability to explain their reasoning is critical to their
   utility and trustworthiness. Deep neural networks have enabled significant
