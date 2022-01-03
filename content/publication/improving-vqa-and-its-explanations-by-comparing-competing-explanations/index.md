@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Jialin Wu, Liyan Chen, Raymond J. Mooney
-publication_short: ACL 2020 ALVR Workshop
+publication_short: AAAI 2021 Explainable Agency in Artificial Intelligence Workshop
 abstract: Most recent state-of-the-art Visual Question Answering (VQA) systems
   are opaque black boxes that are only trained to fit the answer distribution
   given the question and visual content. As a result, these systems frequently
@@ -25,5 +25,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2020-07-09T18:27:22.448Z
+date: 2021-02-09T18:27:22.448Z
 ---
