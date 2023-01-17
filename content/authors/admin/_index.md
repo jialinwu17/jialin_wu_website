@@ -6,7 +6,7 @@ title: Jialin Wu
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,6 +18,7 @@ bio: My main research interests are interpretability of deep learning and intera
 
 # Interests to show in About widget
 interests:
+- Fewshot (In-Context) Learning
 - Language and Vision
 - Explainable AI
 
@@ -26,7 +27,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: UT Austin
-    year: 2017 - present
+    year: 2017 - 2022
   - course: BEng in Automation
     institution: Tsinghua University
     year: 2013 - 2017
@@ -62,11 +63,11 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a fifth year Ph.D. student at <a href = "https://www.cs.utexas.edu/">UTCS</a> advised by <a href = "https://www.cs.utexas.edu/~mooney/">Raymond J. Mooney.</a>
+I joined Google LA as a research scientist after graduating from <a href = "https://www.cs.utexas.edu/">UTCS</a> advised by <a href = "https://www.cs.utexas.edu/~mooney/">Raymond J. Mooney.</a>
  Before coming to UT Austin, I received my BEng. degree from <a href = "http://www.au.tsinghua.edu.cn/"> the Department of Automation</a> supervised by <a href = "http://media.au.tsinghua.edu.cn/xiangyangji.htm"> Prof. Xiangyang Ji</a> at <a href = "http://www.tsinghua.edu.cn/publish/then/index.html"> Tsinghua University</a> in 2017. 
 
 My research focuses on commonsense reasoning and knowledge-based model in vision-language tasks, such as open-knowledge retrieval, question answering and explanation generation. In particular, I explore using external resources for answering various types of visual questions, including commonsense questions and knowledge-based questions. I also work on explaining the model's decision both visually and textually and multi-modal knowledge retrieval projects.
 
 I am also the organizer of  <a href = "https://www.cs.utexas.edu/~ml/xai/">UT XAI</a> reading group.
 
-I am actively looking for full-time opportunity starting summer/fall 2022 and my CV is <a href = "https://www.cs.utexas.edu/~jialinwu/JialinWu_CV.pdf">here</a>.
+My CV is <a href = "https://www.cs.utexas.edu/~jialinwu/JialinWu_CV.pdf">here</a>.
